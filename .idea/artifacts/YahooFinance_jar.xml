@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YahooFinance:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/YahooFinance_jar</output-path>
+    <root id="archive" name="YahooFinance.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resource/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="YahooFinance" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yahoofinance-api/YahooFinanceAPI/2.0.0/dbb529d309d303921235acfbc042aa6be2e64d92/YahooFinanceAPI-2.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.8.1/1eb6690b0c629d7000c77a72df5e822fb974f521/jsoup-1.8.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
